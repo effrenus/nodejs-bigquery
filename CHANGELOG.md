@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/bigquery?activeTab=versions
 
+### [5.3.1](https://www.github.com/googleapis/nodejs-bigquery/compare/v5.3.0...v5.3.1) (2020-10-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency big.js to v6 ([#862](https://www.github.com/googleapis/nodejs-bigquery/issues/862)) ([a47afb5](https://www.github.com/googleapis/nodejs-bigquery/commit/a47afb5c97115d0159ad94615a7997db15d03d01))
+
 ## [5.3.0](https://www.github.com/googleapis/nodejs-bigquery/compare/v5.2.0...v5.3.0) (2020-09-30)
 
 
